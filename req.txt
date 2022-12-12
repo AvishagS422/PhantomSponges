@@ -1,0 +1,5 @@
+torchvision==0.10.1
+torch==1.9.1
+albumentations==1.0.3
+pickleshare=0.7.5
+pillow==8.4.0
