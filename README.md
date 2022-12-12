@@ -1,6 +1,6 @@
 # Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors
 
-This is a PyTorch implementation of [Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors](https://arxiv.org/pdf/2111.10759.pdf--change!!!!!) by Avishag Shapira, Alon Zolfi, Luca Demetrio, Battista Biggio, Asaf Shabtai.
+This is a PyTorch implementation of [Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors](https://arxiv.org/abs/2205.13618) by Avishag Shapira, Alon Zolfi, Luca Demetrio, Battista Biggio, Asaf Shabtai.
 
 <p align="center">
 <img src="https://github.com/AvishagS422/PhantomSponges/blob/main/images/intro.png" width=70% height=70% />
