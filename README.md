@@ -3,10 +3,10 @@
 This is a PyTorch implementation of [Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors](https://arxiv.org/pdf/2111.10759.pdf--change!!!!!) by Avishag Shapira, Alon Zolfi, Luca Demetrio, Battista Biggio, Asaf Shabtai.
 
 <p align="center">
-<img src="https://github.com/AvishagS422/PhantomSponges/blob/master/images/intro.png" />
+<img src="https://github.com/AvishagS422/PhantomSponges/blob/main/images/intro.png" />
 </p>
 
-![projection pipeline](https://github.com/AvishagS422/PhantomSponges/blob/master/images/pipeline.png?raw=true)
+![projection pipeline](https://github.com/AvishagS422/PhantomSponges/blob/main/images/pipleline.png?raw=true)
 
 ## Datasets
 
